@@ -1,0 +1,8 @@
+c:\users\arnav\documents\visual studio 2012\Projects\DesignPattern\PizzaShop\bin\Debug\PizzaShop.exe.config
+c:\users\arnav\documents\visual studio 2012\Projects\DesignPattern\PizzaShop\bin\Debug\PizzaShop.exe
+c:\users\arnav\documents\visual studio 2012\Projects\DesignPattern\PizzaShop\bin\Debug\PizzaShop.pdb
+c:\users\arnav\documents\visual studio 2012\Projects\DesignPattern\PizzaShop\bin\Debug\PizaaCompany.dll
+c:\users\arnav\documents\visual studio 2012\Projects\DesignPattern\PizzaShop\bin\Debug\PizaaCompany.pdb
+c:\users\arnav\documents\visual studio 2012\Projects\DesignPattern\PizzaShop\obj\Debug\PizzaShop.csprojResolveAssemblyReference.cache
+c:\users\arnav\documents\visual studio 2012\Projects\DesignPattern\PizzaShop\obj\Debug\PizzaShop.exe
+c:\users\arnav\documents\visual studio 2012\Projects\DesignPattern\PizzaShop\obj\Debug\PizzaShop.pdb
